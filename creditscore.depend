@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551263986 source:d:\enum c++\creditscore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
